@@ -25,7 +25,7 @@ package lesson01;
  *      - expected worst-case time complexity is O(1);
  *      - expected worst-case space complexity is O(1).
  * 
- * @author Celine
+ * @author Souchet Celine
  *
  */
 

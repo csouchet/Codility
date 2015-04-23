@@ -26,7 +26,7 @@ package lesson01;
  * 
  * Elements of input arrays can be modified.
  * 
- * @author Celine
+ * @author Souchet Celine
  *
  */
 public class PermMissingElem {
